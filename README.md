@@ -1,0 +1,2 @@
+# Library-Management
+Library Management System is based upon the objected oriented programming concepts and as well it has been represented using the Graphical User Interface. It allows the user to communicate with the program through GUI which makes it easier and environmental to be used. Moreover, its capable of opening different pages of login at the same time and we can make the system online. Our program has been coded on the basis of JAVA language
