@@ -19,7 +19,7 @@ import javax.swing.*;
  */
 /**
  *
- * @author Tahira Batool
+ * @author Syed Muhammad Jaffer Abbas
  */
 public class Catalogue implements Serializable {
 

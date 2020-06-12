@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
  */
 /**
  *
- * @author Tahira Batool
+ * @author Syed Muhammad Jaffer Abbas
  */
 public class Member implements Serializable {
 

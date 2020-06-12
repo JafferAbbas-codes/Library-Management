@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Tahira Batool
+ * @author Syed Muhammad Jaffer Abbas
  */
 public class EmployeesAccountDeletion extends javax.swing.JFrame {
 

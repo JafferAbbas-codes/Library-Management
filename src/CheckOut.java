@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
  */
 /**
  *
- * @author Tahira Batool
+ * @author Syed Muhammad Jaffer Abbas
  */
 public class CheckOut extends javax.swing.JFrame {
 

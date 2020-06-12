@@ -8,7 +8,7 @@ import java.io.Serializable;
  */
 /**
  *
- * @author Tahira Batool
+ * @author Syed Muhammad Jaffer Abbas
  */
 public class EmployeeInfo implements Serializable {
 

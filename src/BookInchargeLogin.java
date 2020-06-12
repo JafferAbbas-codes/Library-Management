@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
  */
 /**
  *
- * @author Tahira Batool
+ * @author Syed Muhammad Jaffer Abbas
  */
 public class BookInchargeLogin extends javax.swing.JFrame {
 

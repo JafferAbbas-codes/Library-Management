@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
  */
 /**
  *
- * @author Tahira Batool
+ * @author Syed Muhammad Jaffer Abbas
  */
 public class DeleteBook extends javax.swing.JFrame {
 

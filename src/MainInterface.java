@@ -9,7 +9,7 @@ import javax.swing.JFrame;
  */
 /**
  *
- * @author Tahira Batool
+ * @author Syed Muhammad Jaffer Abbas
  */
 public class MainInterface extends javax.swing.JFrame {
 

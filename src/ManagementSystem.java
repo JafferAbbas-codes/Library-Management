@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Tahira Batool
+ * @author Syed Muhammad Jaffer Abbas
  */
 public class ManagementSystem {
    private final String pass="ladbud";

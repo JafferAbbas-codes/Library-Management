@@ -12,7 +12,7 @@ import javax.swing.table.DefaultTableModel;
  */
 /**
  *
- * @author Tahira Batool
+ * @author Syed Muhammad Jaffer Abbas
  */
 public class BookCheck extends javax.swing.JFrame {
 

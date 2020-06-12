@@ -9,7 +9,7 @@ import javax.swing.JFrame;
  */
 /**
  *
- * @author Tahira Batool
+ * @author Syed Muhammad Jaffer Abbas
  */
 public class Edit extends javax.swing.JFrame {
 

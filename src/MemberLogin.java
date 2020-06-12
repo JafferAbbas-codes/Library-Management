@@ -14,7 +14,7 @@ import javax.swing.table.DefaultTableModel;
  */
 /**
  *
- * @author Tahira Batool
+ * @author Syed Muhammad Jaffer Abbas
  */
 public class MemberLogin extends javax.swing.JFrame {
 

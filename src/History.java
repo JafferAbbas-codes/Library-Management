@@ -9,7 +9,7 @@ import java.util.Date;
  */
 /**
  *
- * @author Tahira Batool
+ * @author Syed Muhammad Jaffer Abbas
  */
 public class History implements Serializable{
 

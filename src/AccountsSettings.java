@@ -21,7 +21,7 @@ import javax.swing.JOptionPane;
  */
 /**
  *
- * @author Tahira Batool
+ * @author Syed Muhammad Jaffer Abbas
  */
 public class AccountsSettings implements Serializable {
 

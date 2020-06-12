@@ -12,7 +12,7 @@ import javax.swing.JFrame;
  */
 /**
  *
- * @author Tahira Batool
+ * @author Syed Muhammad Jaffer Abbas
  */
 public class AccountSetting extends javax.swing.JFrame {
 

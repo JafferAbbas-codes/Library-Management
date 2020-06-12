@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Tahira Batool
+ * @author Syed Muhammad Jaffer Abbas
  */
 public class Book implements Serializable{
     private String name;

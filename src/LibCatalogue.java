@@ -20,7 +20,7 @@ import javax.swing.table.DefaultTableModel;
  */
 /**
  *
- * @author Tahira Batool
+ * @author Syed Muhammad Jaffer Abbas
  */
 public class LibCatalogue extends javax.swing.JFrame {
 

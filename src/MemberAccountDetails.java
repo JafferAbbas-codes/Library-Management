@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Tahira Batool
+ * @author Syed Muhammad Jaffer Abbas
  */
 public class MemberAccountDetails extends javax.swing.JFrame {
 
